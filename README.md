@@ -32,4 +32,5 @@ All tests are executed via the `suite.xml` file located in the `resources` direc
 ---
 
 **Author**: Santiago Gutiérrez  
-**Date**: September 2024
+**Date**: September 2023
+
